@@ -47,4 +47,3 @@ function multiply(a, b){
 ## English
 
 level: B1
-************************
