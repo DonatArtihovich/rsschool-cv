@@ -1,6 +1,6 @@
 # Donat Artikhovich
 ********************
-! [my photo] (\img\photo_2022-12-09_23-30-07.jpg "Моё фото")
+![my photo] (\img\photo_2022-12-09_23-30-07.jpg "Моё фото")
 
 ********************
 ## My contacts
